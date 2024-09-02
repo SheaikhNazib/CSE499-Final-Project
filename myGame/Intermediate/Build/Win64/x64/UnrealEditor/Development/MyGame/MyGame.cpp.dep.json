@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\499\\tester\\mygame\\source\\mygame\\mygame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\499\\tester\\mygame\\intermediate\\build\\win64\\x64\\mygameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\499\\tester\\mygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mygame\\definitions.mygame.h",
+            "d:\\499\\tester\\mygame\\source\\mygame\\mygame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

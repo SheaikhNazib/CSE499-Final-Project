@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Semester 11\\CSE499\\MyGame\\Source\\MyGame\\MyGame.Build.cs",
+		"E:\\Semester 11\\CSE499\\MyGame\\Source\\MyGame.Target.cs",
+		"E:\\Semester 11\\CSE499\\MyGame\\Source\\MyGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

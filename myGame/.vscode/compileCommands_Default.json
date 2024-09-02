@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\499\\Tester\\MyGame\\Source\\MyGame\\MyGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\499\\Tester\\MyGame\\.vscode\\compileCommands_Default\\MyGame.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\499\\Tester\\MyGame\\Source\\MyGame\\MyGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\499\\Tester\\MyGame\\.vscode\\compileCommands_Default\\MyGame.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\499\\Tester\\MyGame\\Source\\MyGame\\MyGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\499\\Tester\\MyGame\\.vscode\\compileCommands_Default\\MyGame.1.rsp"
+		],
+		"directory": "D:\\Unreal Engine\\UE_5.3\\Engine\\Source"
+	}
+]
