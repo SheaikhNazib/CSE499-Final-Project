@@ -1470,3 +1470,12 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.09.02-07.29.43:470][ 54]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/Semester 11/CSE499/CSE-499-final-project/CSE499-Game-Project/myGame/Saved/Autosaves/Game/Maps/MapLevel/MainLevel_Auto1.umap is in the /Temp path, will not scan.
 [2024.09.02-07.29.43:470][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MapLevel/MainLevel' took 0.769
 [2024.09.02-07.29.43:470][ 54]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.769
+[2024.09.02-07.36.04:973][ 90]LogEditorViewport: Clicking Background
+[2024.09.02-07.37.29:850][611]LogEditorViewport: Clicking Background
+[2024.09.02-07.37.36:613][841]Cmd: TRANSACTION UNDO
+[2024.09.02-07.37.36:613][841]LogEditorTransaction: Undo Clicking Background
+[2024.09.02-07.37.37:335][872]Cmd: TRANSACTION UNDO
+[2024.09.02-07.37.37:335][872]LogEditorTransaction: Undo Move Elements
+[2024.09.02-07.37.38:580][893]Cmd: TRANSACTION UNDO
+[2024.09.02-07.37.38:580][893]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.02-07.37.40:079][924]LogEditorViewport: Clicking Background
